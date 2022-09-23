@@ -1,9 +1,11 @@
 .recipe_div {
-    border: 2px solid black; 
-}
+    border:  1px solid black; 
+    padding: 5px;
+    background-color: bisque;
 
+}
 
 h1 {
-    color: blue; 
-
+    color: red; 
 }
+
